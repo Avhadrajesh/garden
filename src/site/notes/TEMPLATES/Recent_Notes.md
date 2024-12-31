@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/recent-notes/"}
+{"dg-publish":true,"permalink":"/TEMPLATES/Recent_Notes/"}
 ---
 
 
@@ -102,7 +102,7 @@
 | [[INBOX/Fleeting notes/HDFC PL\|HDFC PL]]                                                                           | 7:16 PM - December 29, 2024  | 1              |
 | [[INBOX/Fleeting notes/My Debts\|My Debts]]                                                                         | 7:16 PM - December 29, 2024  | 0              |
 | [[JOURNAL/DAILY/2024-11-27\|2024-11-27]]                                                                            | 12:12 PM - December 21, 2024 | 0              |
-| [[TEMPLATES/Recent_Notes\|Recent_Notes]]                                                                            | 2:47 PM - December 31, 2024  | 0              |
+| [[TEMPLATES/Recent_Notes\|Recent_Notes]]                                                                            | 6:48 PM - December 31, 2024  | 0              |
 | [[TEMPLATES/Daily_Note\|Daily_Note]]                                                                                | 7:13 PM - December 29, 2024  | 0              |
 
 { .block-language-dataview}
